@@ -2,7 +2,7 @@ body{
     margin:0px;
     padding:0px;
     font-size: 15px;
-    font-family: "Lato", sans-serif;
+    font-family: "arial", sans-serif;
     font-style: normal;
 }
 
@@ -1018,4 +1018,5 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 

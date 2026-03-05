@@ -688,7 +688,7 @@ sub{
     border-radius: 10px;
 }
 .top-series:hover{
-    background-color:#f8f0ff;
+    background-color:#f0f8ff;
     cursor:pointer;
     box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 12px;
 }
@@ -1052,6 +1052,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

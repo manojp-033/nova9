@@ -161,6 +161,7 @@ padding: 14px;
     margin-top: 45px;
     border-radius: 100px;
     border: 1px solid #f1f1f1;
+    background: #ffffff;
 }
 .col p{
     font-weight: 500;
@@ -1043,6 +1044,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

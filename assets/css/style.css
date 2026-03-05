@@ -131,7 +131,7 @@ h2{
 .card img{
 padding: 14px;
 }
-.card-data a{
+.buy{
     background-color: #171f66;
     color: #ffffff;
     text-decoration: none;
@@ -1058,6 +1058,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

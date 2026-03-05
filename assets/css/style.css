@@ -729,8 +729,11 @@ sub{
     text-decoration: none;
     color: #ffffff;
     background: #171f66;
-    padding: 10px 20px;
+    padding: 10px 30px;
     border-radius: 25px;
+}
+.btn a:hover{
+    background-color:#000000;
 }
 .store-btn{
     text-align: center;
@@ -1052,6 +1055,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

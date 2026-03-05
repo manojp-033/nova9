@@ -139,7 +139,7 @@ padding: 14px;
     border-radius: 10px;
     font-weight: bold;
 }
-.card-data a:hover{
+.buy:hover{
     background-color:#000000;
 }
 .bg{
@@ -1058,6 +1058,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

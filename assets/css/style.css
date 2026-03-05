@@ -949,6 +949,15 @@ sub{
         padding: 8px 14px;
         margin:5px 5px;
     }
+    .phone-body a{
+        margin-left:0px;
+    }
+    .phone-body p{
+        margin:5px 0px;
+    }
+    .phone-body h2{
+        margin-top:10px;
+    }
 }
 @media (min-width: 768px) and (max-width: 1024px) {
         .cards{
@@ -1026,6 +1035,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

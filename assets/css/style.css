@@ -1,8 +1,16 @@
+@font-face {
+    font-family: 'latoregular';
+    src: url('assets/fonts/lato-regular-webfont.woff2') format('woff2'),
+         url('assets/fonts/lato-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
     margin:0px;
     padding:0px;
     font-size: 15px;
-    font-family: "arial", sans-serif;
+    font-family: "latoregular",sans-serif;
     font-style: normal;
 }
 
@@ -1018,6 +1026,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

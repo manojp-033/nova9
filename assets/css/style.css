@@ -110,6 +110,7 @@ h2{
 .col:hover{
     background-color: #f0f8ff;
     cursor:default;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .price p {
     color:#000000;
@@ -161,6 +162,7 @@ padding: 14px;
     height: 395px;
     margin:0px 10px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    transition: background-color 1s, box-shadow 1s;
 }
 .col img{
     margin-top: 45px;
@@ -1060,6 +1062,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

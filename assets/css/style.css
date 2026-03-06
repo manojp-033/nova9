@@ -130,7 +130,7 @@ padding: 14px;
     padding: 10px 20px;
     border-radius: 10px;
     font-weight: bold;
-    transition: background 1s, box-shadow 1s;
+    transition: background-color 1s, box-shadow 1s;
 }
 .buy:hover{
     background-color:#ffffff;
@@ -1062,6 +1062,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

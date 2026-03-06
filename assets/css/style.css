@@ -103,9 +103,11 @@ h2{
 }
 .card-data:hover{
     background-color: #f0f8ff;
+    cursor:default;
 }
 .col:hover{
     background-color: #f0f8ff;
+    cursor:default;
 }
 .price p {
     color:#000000;
@@ -1056,6 +1058,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

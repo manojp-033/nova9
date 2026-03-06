@@ -89,7 +89,6 @@ h2{
     background: #faf9f9;
     width: 100%;
     padding-left: 15px;
-    transition: background-color 1s, box-shadow 1s;
 }
 .card-data p{
     color: #484848;
@@ -101,11 +100,6 @@ h2{
     padding: 0px;
     color: #000000;
     background: none;
-}
-.card-data:hover{
-    background-color: #f0f8ff;
-    cursor:default;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .price p {
     color:#000000;
@@ -136,9 +130,14 @@ padding: 14px;
     padding: 10px 20px;
     border-radius: 10px;
     font-weight: bold;
+    transition: background 1s, box-shadow 1s;
 }
 .buy:hover{
-    background-color:#000000;
+    background-color:#ffffff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    color:#000000;
+}
+    
 }
 .bg{
     background: #f1f1f1;
@@ -1063,6 +1062,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

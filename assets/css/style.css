@@ -130,7 +130,7 @@ padding: 14px;
     padding: 10px 20px;
     border-radius: 10px;
     font-weight: bold;
-    transition: background-color 1s, box-shadow 1s;
+    transition: background-color 0.5s, box-shadow 1s;
 }
 .buy:hover{
     background-color: #000000;
@@ -736,9 +736,11 @@ sub{
     background: #171f66;
     padding: 10px 30px;
     border-radius: 25px;
+    transition: background 0.5s, box-shadow 1s;
 }
 .btn a:hover{
     background-color:#000000;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .store-btn{
     text-align: center;
@@ -1060,6 +1062,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

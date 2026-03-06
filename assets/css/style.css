@@ -137,8 +137,6 @@ padding: 14px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     color:#000000;
 }
-    
-}
 .bg{
     background: #f1f1f1;
 }
@@ -1062,6 +1060,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

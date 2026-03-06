@@ -107,11 +107,6 @@ h2{
     cursor:default;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
-.col:hover{
-    background-color: #f0f8ff;
-    cursor:default;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-}
 .price p {
     color:#000000;
     font-size: 25px;
@@ -163,6 +158,12 @@ padding: 14px;
     margin:0px 10px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     transition: background-color 1s, box-shadow 1s;
+}
+
+.col:hover{
+    background-color: #f0f8ff;
+    cursor:default;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .col img{
     margin-top: 45px;
@@ -1062,6 +1063,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 

@@ -89,6 +89,7 @@ h2{
     background: #faf9f9;
     width: 100%;
     padding-left: 15px;
+    transition: background-color 1s, box-shadow 1s;
 }
 .card-data p{
     color: #484848;
@@ -100,9 +101,6 @@ h2{
     padding: 0px;
     color: #000000;
     background: none;
-}
-.card-data{
-    transition: background-color 1s, box-shadow 1s;
 }
 .card-data:hover{
     background-color: #f0f8ff;
@@ -1062,6 +1060,7 @@ sub{
         padding-bottom: 0px;
     }
 }
+
 
 
 
